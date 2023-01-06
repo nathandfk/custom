@@ -1,0 +1,6 @@
+{
+    "require": {
+        "calcinai/php-imagick": "^0.1.2",
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}

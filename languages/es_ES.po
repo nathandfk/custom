@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-04 10:11+0100\n"
+"PO-Revision-Date: 2023-01-04 10:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+
+#: custom-table/partials/view_personalized_form.php:6
+msgid "Étape 1 : Sélectionnez votre image"
+msgstr "Paso 1: Seleccione su imagen"
+
+#: custom-table/partials/view_personalized_form.php:7
+msgid "Étape 2 : Configurez votre carte"
+msgstr "Paso 2: Configure su tarjeta"
+
+#: custom-table/partials/view_personalized_form.php:8
+msgid "Étape 3 : Ajouter au panier"
+msgstr "Paso 3: Añadir a la cesta"
+
+#: custom-table/partials/view_personalized_form.php:46
+msgid "À partir de"
+msgstr "En"
+
+#: custom-table/partials/view_personalized_form.php:56
+msgid "Dimensions minimales: 1920 x 1080 pixels"
+msgstr "Tamaño mínimo: 1920 x 1080 píxeles"
+
+#: custom-table/partials/view_personalized_form.php:60
+msgid "Cliquez ici pour charger votre image"
+msgstr "Haga clic aquí para cargar su imagen"
+
+#: custom-table/partials/view_personalized_form.php:66
+msgid "Insérer une image via un lien"
+msgstr "Insertar una imagen a través de un enlace"
+
+#: custom-table/partials/view_personalized_form.php:69
+msgid "Valider"
+msgstr "Validar"
+
+#: custom-table/partials/view_personalized_form.php:75
+msgid "Mode portrait (cadre vertical)"
+msgstr "Modo retrato (encuadre vertical)"
+
+#: custom-table/partials/view_personalized_form.php:78
+msgid "Configurer ma taille"
+msgstr "Fijar mi talla"
+
+#: custom-table/partials/view_personalized_form.php:85
+msgid "Tailles"
+msgstr "Tallas"
+
+#: custom-table/partials/view_personalized_form.php:98
+msgid "Guide des tailles"
+msgstr "Guía de tallas"
+
+#: custom-table/partials/view_personalized_form.php:114
+msgid "Support"
+msgstr "Ayuda"
+
+#: custom-table/partials/view_personalized_form.php:121
+#: custom-table/partials/view_personalized_form.php:133
+msgid "Étape précédente"
+msgstr "Paso anterior"
+
+#: custom-table/partials/view_personalized_form.php:122
+msgid "Choisir la quantité"
+msgstr "Elija la cantidad"
+
+#: custom-table/partials/view_personalized_form.php:131
+msgid "Ajouter au panier"
+msgstr "Añadir a la cesta"
+
+
+#: custom-table/partials/view_personalized_form.php:116
+msgid "Avec châssis"
+msgstr "Con marco"
+
+#: custom-table/partials/view_personalized_form.php:117
+msgid "Toile(s) seulement"
+msgstr "Sólo lienzo(s)"
+
+#: custom-table/tabloide-personalized-functions.php:16
+msgid "Veuillez charger une image d'au moins 1920 x 1080 px."
+msgstr "Cargue una imagen de al menos 1920 x 1080 px."
+
+#: custom-table/tabloide-personalized-functions.php:17
+#: custom-table/tabloide-personalized-functions.php:22
+msgid "Votre image n'est pas conforme."
+msgstr "Su imagen no es conforme."
+
+#: custom-table/tabloide-personalized-functions.php:23
+msgid ""
+"Ce produit n'est pas disponible avec cette configuration, veuillez modifier "
+"votre configuration ou nous contacter."
+msgstr ""
+"Este producto no está disponible con esta configuración, por favor cambie "
+"su configuración o póngase en contacto con nosotros."
+
+#: custom-table/tabloide-personalized-functions.php:24
+msgid "Une erreur inattendue s'est produite. Veuillez rafraîchir votre page et réessayer."
+msgstr "Se ha producido un error inesperado. Por favor, actualice su página e inténtelo de nuevo."
+
+#: custom-table/tabloide-personalized-functions.php:89
+msgid "Un problème inattendu est survenu lors du chargement de l'image, veuillez actualiser votre page et réessayer."
+msgstr "Se ha producido un problema inesperado al cargar la imagen. Por favor, actualice la página e inténtelo de nuevo."
+
+#: custom-table/tabloide-personalized-functions.php:103
+#: custom-table/tabloide-personalized-functions.php:287
+msgid "Votre image n'est pas de bonne qualité."
+msgstr "Su imagen no es de buena calidad."
+
+#: custom-table/tabloide-personalized-functions.php:117
+msgid "Votre image est correcte."
+msgstr "Su imagen es correcta."
+
+#: custom-table/tabloide-personalized-functions.php:179
+msgid "Le lien que vous avez fourni est incorrect."
+msgstr "El enlace que ha proporcionado es incorrecto."
+
+#: custom-table/tabloide-personalized-functions.php:233
+#: custom-table/tabloide-personalized-functions.php:301
+msgid "La dimension de votre image est trop petite, elle doit être d'au moins 1920 x 1080px."
+msgstr "El tamaño de tu imagen es demasiado pequeño, debe ser de al menos 1920 x 1080px."
+
+#: custom-table/tabloide-personalized-functions.php:273
+msgid "Le format de votre fichier n'est pas accepté, votre fichier doit être de type : jpeg, heic, png, webp."
+msgstr "El formato de su archivo no es aceptado, su archivo debe ser del tipo: jpeg, heic, png, webp."
+
+#: custom-table/tabloide-personalized-functions.php:316
+#: custom-table/tabloide-personalized-functions.php:342
+msgid "Une erreur s'est produite. Veuillez réessayer."
+msgstr "Se ha producido un error. Por favor, inténtelo de nuevo."
+
+#: custom-table/tabloide-personalized-functions.php:330
+msgid "Aucune image n'a été chargée."
+msgstr "No se ha cargado ninguna imagen."
+
+#: custom-table/tabloide-personalized-functions.php:476
+msgid "Votre tableau a bien été ajouté dans votre panier."
+msgstr "Su cuadro se ha añadido a su cesta."
+
+#: custom-table/tabloide-personalized-functions.php:484
+msgid "Votre tableau n'a pas pu être inséré dans votre panier, veuillez réessayer."
+msgstr "Su cuadro no ha podido ser introducido en su cesta de la compra, por favor inténtelo de nuevo."
+
+#: custom-table/tabloide-personalized-functions.php:493
+msgid "Une erreur inattendue s'est produite, veuillez actualiser votre page et réessayer."
+msgstr "Se ha producido un error inesperado, actualice la página e inténtelo de nuevo."
+
+#: index.php:20
+msgid "Sorry, no posts matched your criteria."
+msgstr ""

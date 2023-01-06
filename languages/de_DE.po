@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-04 10:11+0100\n"
+"PO-Revision-Date: 2023-01-04 11:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+
+#: custom-table/partials/view_personalized_form.php:6
+msgid "Étape 1 : Sélectionnez votre image"
+msgstr "Schritt 1: Wählen Sie Ihr Bild aus"
+
+#: custom-table/partials/view_personalized_form.php:7
+msgid "Étape 2 : Configurez votre carte"
+msgstr "Schritt 2: Konfigurieren Sie Ihre Karte"
+
+#: custom-table/partials/view_personalized_form.php:8
+msgid "Étape 3 : Ajouter au panier"
+msgstr "Schritt 3: Zum Warenkorb hinzufügen"
+
+#: custom-table/partials/view_personalized_form.php:46
+msgid "À partir de"
+msgstr "Ab"
+
+#: custom-table/partials/view_personalized_form.php:56
+msgid "Dimensions minimales: 1920 x 1080 pixels"
+msgstr "Mindestgröße: 1920 x 1080 Pixel"
+
+#: custom-table/partials/view_personalized_form.php:60
+msgid "Cliquez ici pour charger votre image"
+msgstr "Klicken Sie hier, um Ihr Bild hochzuladen"
+
+#: custom-table/partials/view_personalized_form.php:66
+msgid "Insérer une image via un lien"
+msgstr "Ein Bild über einen Link einfügen"
+
+#: custom-table/partials/view_personalized_form.php:69
+msgid "Valider"
+msgstr "Bestätigen"
+
+#: custom-table/partials/view_personalized_form.php:75
+msgid "Mode portrait (cadre vertical)"
+msgstr "Porträtmodus (vertikaler Rahmen)"
+
+#: custom-table/partials/view_personalized_form.php:78
+msgid "Configurer ma taille"
+msgstr "Meine Größe konfigurieren"
+
+#: custom-table/partials/view_personalized_form.php:85
+msgid "Tailles"
+msgstr "Größen"
+
+#: custom-table/partials/view_personalized_form.php:98
+msgid "Guide des tailles"
+msgstr "Größenratgeber"
+
+#: custom-table/partials/view_personalized_form.php:114
+msgid "Support"
+msgstr "Unterstützung"
+
+#: custom-table/partials/view_personalized_form.php:121 custom-table/partials/view_personalized_form.php:133
+msgid "Étape précédente"
+msgstr "Vorheriger Schritt"
+
+#: custom-table/partials/view_personalized_form.php:116
+msgid "Avec châssis"
+msgstr "Mit Gestell"
+
+#: custom-table/partials/view_personalized_form.php:117
+msgid "Toile(s) seulement"
+msgstr "Nur Leinwand(en)"
+
+#: custom-table/partials/view_personalized_form.php:122
+msgid "Choisir la quantité"
+msgstr "Menge wählen"
+
+#: custom-table/partials/view_personalized_form.php:131
+msgid "Ajouter au panier"
+msgstr "In den Warenkorb legen"
+
+#: custom-table/tabloide-personalized-functions.php:16
+msgid "Veuillez charger une image d'au moins 1920 x 1080 px."
+msgstr "Bitte laden Sie ein Bild mit mindestens 1920 x 1080 px hoch."
+
+#: custom-table/tabloide-personalized-functions.php:17 custom-table/tabloide-personalized-functions.php:22
+msgid "Votre image n'est pas conforme."
+msgstr "Ihr Bild entspricht nicht den Vorgaben."
+
+#: custom-table/tabloide-personalized-functions.php:23
+msgid "Ce produit n'est pas disponible avec cette configuration, veuillez modifier votre configuration ou nous contacter."
+msgstr "Dieses Produkt ist mit dieser Konfiguration nicht verfügbar. Bitte ändern Sie Ihre Konfiguration oder kontaktieren Sie uns."
+
+#: custom-table/tabloide-personalized-functions.php:24
+msgid "Une erreur inattendue s'est produite. Veuillez rafraîchir votre page et réessayer."
+msgstr "Es ist ein unerwarteter Fehler aufgetreten. Bitte aktualisieren Sie Ihre Seite und versuchen Sie es erneut."
+
+#: custom-table/tabloide-personalized-functions.php:89
+msgid "Un problème inattendu est survenu lors du chargement de l'image, veuillez actualiser votre page et réessayer."
+msgstr "Beim Laden des Bildes ist ein unerwartetes Problem aufgetreten. Bitte aktualisieren Sie Ihre Seite und versuchen Sie es erneut."
+
+#: custom-table/tabloide-personalized-functions.php:103 custom-table/tabloide-personalized-functions.php:287
+msgid "Votre image n'est pas de bonne qualité."
+msgstr "Ihr Bild ist nicht von guter Qualität."
+
+#: custom-table/tabloide-personalized-functions.php:117
+msgid "Votre image est correcte."
+msgstr "Ihr Bild ist in Ordnung."
+
+#: custom-table/tabloide-personalized-functions.php:179
+msgid "Le lien que vous avez fourni est incorrect."
+msgstr "Der Link, den Sie angegeben haben, ist falsch."
+
+#: custom-table/tabloide-personalized-functions.php:233 custom-table/tabloide-personalized-functions.php:301
+msgid "La dimension de votre image est trop petite, elle doit être d'au moins 1920 x 1080px."
+msgstr "Die Größe Ihres Bildes ist zu klein, es muss mindestens 1920 x 1080px betragen."
+
+#: custom-table/tabloide-personalized-functions.php:273
+msgid "Le format de votre fichier n'est pas accepté, votre fichier doit être de type : jpeg, heic, png, webp."
+msgstr "Das Format Ihrer Datei wird nicht akzeptiert. Ihre Datei muss vom Typ: jpeg, heic, png, webp sein."
+
+#: custom-table/tabloide-personalized-functions.php:316 custom-table/tabloide-personalized-functions.php:342
+msgid "Une erreur s'est produite. Veuillez réessayer."
+msgstr "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+
+#: custom-table/tabloide-personalized-functions.php:330
+msgid "Aucune image n'a été chargée."
+msgstr "Es wurde kein Bild geladen."
+
+#: custom-table/tabloide-personalized-functions.php:476
+msgid "Votre tableau a bien été ajouté dans votre panier."
+msgstr "Ihr Bild wurde erfolgreich in Ihren Warenkorb gelegt."
+
+#: custom-table/tabloide-personalized-functions.php:484
+msgid "Votre tableau n'a pas pu être inséré dans votre panier, veuillez réessayer."
+msgstr "Ihr Bild konnte nicht in den Warenkorb gelegt werden. Bitte versuchen Sie es noch einmal."
+
+#: custom-table/tabloide-personalized-functions.php:493
+msgid "Une erreur inattendue s'est produite, veuillez actualiser votre page et réessayer."
+msgstr "Es ist ein unerwarteter Fehler aufgetreten. Bitte aktualisieren Sie Ihre Seite und versuchen Sie es erneut."
+
+#: index.php:20
+msgid "Sorry, no posts matched your criteria."
+msgstr ""

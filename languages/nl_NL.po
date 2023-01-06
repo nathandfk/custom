@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-04 10:11+0100\n"
+"PO-Revision-Date: 2023-01-04 10:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+
+#: custom-table/partials/view_personalized_form.php:6
+msgid "Étape 1 : Sélectionnez votre image"
+msgstr "Stap 1: Selecteer uw afbeelding"
+
+#: custom-table/partials/view_personalized_form.php:7
+msgid "Étape 2 : Configurez votre carte"
+msgstr "Stap 2: uw kaart instellen"
+
+#: custom-table/partials/view_personalized_form.php:8
+msgid "Étape 3 : Ajouter au panier"
+msgstr "Stap 3: Toevoegen aan winkelwagen"
+
+#: custom-table/partials/view_personalized_form.php:46
+msgid "À partir de"
+msgstr "Van"
+
+#: custom-table/partials/view_personalized_form.php:56
+msgid "Dimensions minimales: 1920 x 1080 pixels"
+msgstr "Minimumformaat: 1920 x 1080 pixels"
+
+#: custom-table/partials/view_personalized_form.php:60
+msgid "Cliquez ici pour charger votre image"
+msgstr "Klik hier om uw afbeelding te uploaden"
+
+#: custom-table/partials/view_personalized_form.php:66
+msgid "Insérer une image via un lien"
+msgstr "Een afbeelding invoegen via een link"
+
+#: custom-table/partials/view_personalized_form.php:69
+msgid "Valider"
+msgstr "Valideer"
+
+#: custom-table/partials/view_personalized_form.php:75
+msgid "Mode portrait (cadre vertical)"
+msgstr "Portretstand (verticaal frame)"
+
+#: custom-table/partials/view_personalized_form.php:78
+msgid "Configurer ma taille"
+msgstr "Stel mijn maat in"
+
+#: custom-table/partials/view_personalized_form.php:85
+msgid "Tailles"
+msgstr "Maten"
+
+#: custom-table/partials/view_personalized_form.php:98
+msgid "Guide des tailles"
+msgstr "Maattabel"
+
+#: custom-table/partials/view_personalized_form.php:114
+msgid "Support"
+msgstr "Steun"
+
+#: custom-table/partials/view_personalized_form.php:121
+#: custom-table/partials/view_personalized_form.php:133
+msgid "Étape précédente"
+msgstr "Vorige stap"
+
+#: custom-table/partials/view_personalized_form.php:116
+msgid "Avec châssis"
+msgstr "Met frame"
+
+#: custom-table/partials/view_personalized_form.php:117
+msgid "Toile(s) seulement"
+msgstr "Alleen canvas(s)"
+
+#: custom-table/partials/view_personalized_form.php:122
+msgid "Choisir la quantité"
+msgstr "Kies de hoeveelheid"
+
+#: custom-table/partials/view_personalized_form.php:131
+msgid "Ajouter au panier"
+msgstr "In winkelmand"
+
+#: custom-table/tabloide-personalized-functions.php:16
+msgid "Veuillez charger une image d'au moins 1920 x 1080 px."
+msgstr "Upload een afbeelding van ten minste 1920 x 1080 px."
+
+#: custom-table/tabloide-personalized-functions.php:17
+#: custom-table/tabloide-personalized-functions.php:22
+msgid "Votre image n'est pas conforme."
+msgstr "Je beeld voldoet niet."
+
+#: custom-table/tabloide-personalized-functions.php:23
+msgid "Ce produit n'est pas disponible avec cette configuration, veuillez modifier votre configuration ou nous contacter."
+msgstr "Dit product is niet beschikbaar met deze configuratie, wijzig uw configuratie of neem contact met ons op."
+
+#: custom-table/tabloide-personalized-functions.php:24
+msgid "Une erreur inattendue s'est produite. Veuillez rafraîchir votre page et réessayer."
+msgstr "Er is een onverwachte fout opgetreden. Vernieuw uw pagina en probeer het opnieuw."
+
+#: custom-table/tabloide-personalized-functions.php:89
+msgid "Un problème inattendu est survenu lors du chargement de l'image, veuillez actualiser votre page et réessayer."
+msgstr "Er is een onverwacht probleem opgetreden bij het laden van de afbeelding. Vernieuw de pagina en probeer het opnieuw."
+
+#: custom-table/tabloide-personalized-functions.php:103
+#: custom-table/tabloide-personalized-functions.php:287
+msgid "Votre image n'est pas de bonne qualité."
+msgstr "Uw beeld is niet van goede kwaliteit."
+
+#: custom-table/tabloide-personalized-functions.php:117
+msgid "Votre image est correcte."
+msgstr "Je beeld is correct."
+
+#: custom-table/tabloide-personalized-functions.php:179
+msgid "Le lien que vous avez fourni est incorrect."
+msgstr "De link die je gaf is onjuist."
+
+#: custom-table/tabloide-personalized-functions.php:233
+#: custom-table/tabloide-personalized-functions.php:301
+msgid "La dimension de votre image est trop petite, elle doit être d'au moins 1920 x 1080px."
+msgstr "Het formaat van je afbeelding is te klein, het moet minstens 1920 x 1080px zijn."
+
+#: custom-table/tabloide-personalized-functions.php:273
+msgid "Le format de votre fichier n'est pas accepté, votre fichier doit être de type : jpeg, heic, png, webp."
+msgstr "Het formaat van uw bestand wordt niet geaccepteerd, uw bestand moet van het type zijn: jpeg, heic, png, webp."
+
+#: custom-table/tabloide-personalized-functions.php:316
+#: custom-table/tabloide-personalized-functions.php:342
+msgid "Une erreur s'est produite. Veuillez réessayer."
+msgstr "Er is een fout opgetreden. Probeer het opnieuw."
+
+#: custom-table/tabloide-personalized-functions.php:330
+msgid "Aucune image n'a été chargée."
+msgstr "Er zijn geen afbeeldingen geladen."
+
+#: custom-table/tabloide-personalized-functions.php:476
+msgid "Votre tableau a bien été ajouté dans votre panier."
+msgstr "Uw schilderij is toegevoegd aan uw mandje."
+
+#: custom-table/tabloide-personalized-functions.php:484
+msgid "Votre tableau n'a pas pu être inséré dans votre panier, veuillez réessayer."
+msgstr "Uw schilderij kon niet worden ingevoegd in uw winkelwagen, probeer het opnieuw."
+
+#: custom-table/tabloide-personalized-functions.php:493
+msgid "Une erreur inattendue s'est produite, veuillez actualiser votre page et réessayer."
+msgstr "Er is een onverwachte fout opgetreden, vernieuw uw pagina en probeer het opnieuw."
+
+#: index.php:20
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
